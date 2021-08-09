@@ -4,8 +4,10 @@ download,plot and predict stock data
 ## Code
 get code from [stock_pred.py](https://github.com/ambader/stock_prediction/blob/main/stock_pred.py)
 
+
 <details open>
   <summary>Show Code</summary>
+  
   ```python
 import numpy as np
 import pandas as pd
@@ -71,4 +73,5 @@ class stock_pred():
         output = w.children[-1]
         display(VBox([controls, output]))
 ```
+
   </details>
