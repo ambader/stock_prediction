@@ -6,7 +6,7 @@ get code from [stock_pred.py](https://github.com/ambader/stock_prediction/blob/m
 
 <details open>
   <summary>Show Code</summary>
-```python
+  ```python
 import numpy as np
 import pandas as pd
 #pip install yfinance --upgrade --no-cache-dir
