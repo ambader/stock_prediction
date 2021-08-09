@@ -5,7 +5,7 @@ download,plot and predict stock data
 get code from [stock_pred.py](https://github.com/ambader/stock_prediction/blob/main/stock_pred.py)
 
 
-<details open>
+<details>
   <summary>Show Code</summary>
   
   ```python
