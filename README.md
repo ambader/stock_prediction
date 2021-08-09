@@ -75,3 +75,21 @@ class stock_pred():
 ```
 
   </details>
+  
+## Download
+```python
+stock_pred().dwld_data()
+```
+![](https://raw.githubusercontent.com/ambader/stock_prediction/main/img/dwld.gif)
+
+## Plot
+```python
+stock_pred().plot_stock()
+```
+![](https://raw.githubusercontent.com/ambader/stock_prediction/main/img/plot.gif)
+
+## Predict
+```python
+stock_pred().pred_stock()
+```
+![](https://raw.githubusercontent.com/ambader/stock_prediction/main/img/pred.gif)
